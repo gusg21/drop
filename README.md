@@ -16,7 +16,7 @@ To integrate Drop into a C project, a few steps are needed:
 
 A drop config looks something like this:
 
-```json
+```jsonc
 {
     // A list of directories to scan all the files in as input.
     "directories": [
